@@ -1,0 +1,275 @@
+; Wed May 23 18:24:42 CEST 2018
+; 
+;+ (version "3.4.1")
+;+ (build "Build 537")
+
+
+(defclass %3ACLIPS_TOP_LEVEL_SLOT_CLASS "Fake class to save top-level slot information"
+	(is-a USER)
+	(role abstract)
+	(multislot specialOcasion
+;+		(comment "Special ocasions for visiting the City")
+		(type SYMBOL)
+		(allowed-values Honeymoon Studies MadTrip Desconnection)
+		(create-accessor read-write))
+	(single-slot forFamilies
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot carTrip
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot hasHotels
+		(type INSTANCE)
+;+		(allowed-classes Hotel)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot Name
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot price
+		(type SYMBOL)
+		(allowed-values lowCost regular expensive)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(multislot travByPlane
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(multislot tripThrough
+		(type INSTANCE)
+;+		(allowed-classes Continent)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot cruise
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot %23days
+;+		(comment "Number of days the trip will last")
+		(type INTEGER)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot publicAge
+		(type SYMBOL)
+		(allowed-values Junior Senior Veteran)
+		(create-accessor read-write))
+	(single-slot %23cities
+;+		(comment "Number of cities visited during the trip")
+		(type INTEGER)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot travByBoat
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(single-slot Cost
+;+		(comment "Upper bound for the cost of the trip")
+		(type INTEGER)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(multislot travByTrain
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(single-slot cityType
+		(type SYMBOL)
+		(allowed-values touristic alternative)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot lifeQuality
+		(type SYMBOL)
+		(allowed-values lowCost regular expensive)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot hasCities
+;+		(comment "Cities within the continent")
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot familiar
+;+		(comment "Says if the city is especially adapted for familiar tourism")
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot travByCar
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(single-slot NameHotel
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot cultural
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot tourismAge
+;+		(comment "This parametre is used to define the popularity of the city among population. None means the city has the same popularity for any age.")
+		(type SYMBOL)
+		(allowed-values Junior Senior Veteran none)
+		(default none)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(multislot hasInterestPoints
+		(type INSTANCE)
+;+		(allowed-classes interestPoint)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot NameContinent
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot NameCity
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot city
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write)))
+
+(defclass Trip "This class defines the trip and its attributes"
+	(is-a USER)
+	(role concrete)
+	(multislot tripThrough
+		(type INSTANCE)
+;+		(allowed-classes Continent)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot cruise
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot %23days
+;+		(comment "Number of days the trip will last")
+		(type INTEGER)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot carTrip
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot Cost
+;+		(comment "Upper bound for the cost of the trip")
+		(type INTEGER)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot %23cities
+;+		(comment "Number of cities visited during the trip")
+		(type INTEGER)
+;+		(cardinality 1 1)
+		(create-accessor read-write)))
+
+(defclass City "Class to define the cities of the ontology"
+	(is-a USER)
+	(role concrete)
+	(single-slot latitude
+		(type FLOAT)
+		(create-accessor read-write))
+	(single-slot longitude
+		(type FLOAT)
+		(create-accessor read-write))
+	(single-slot lifeQuality
+		(type SYMBOL)
+		(allowed-values lowCost regular expensive)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot travByPlane
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(single-slot NameCity
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot hasHotels
+		(type INSTANCE)
+;+		(allowed-classes Hotel)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(multislot travByTrain
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(multislot travByCar
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write))
+	(multislot hasInterestPoints
+		(type INSTANCE)
+;+		(allowed-classes interestPoint)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write))
+	(single-slot cityType
+		(type SYMBOL)
+		(allowed-values touristic alternative)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(multislot travByBoat
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(create-accessor read-write)))
+
+(defclass Continent
+	(is-a USER)
+	(role concrete)
+	(single-slot NameContinent
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot hasCities
+;+		(comment "Cities within the continent")
+		(type INSTANCE)
+;+		(allowed-classes City)
+		(cardinality 1 ?VARIABLE)
+		(create-accessor read-write)))
+
+(defclass interestPoint
+	(is-a USER)
+	(role concrete)
+	(single-slot cultural
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot forFamilies
+		(type SYMBOL)
+		(allowed-values FALSE TRUE)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot Name
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(multislot publicAge
+		(type SYMBOL)
+		(allowed-values Junior Senior Veteran)
+		(create-accessor read-write)))
+
+(defclass Hotel
+	(is-a USER)
+	(role concrete)
+	(single-slot NameHotel
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write))
+	(single-slot price
+		(type SYMBOL)
+		(allowed-values lowCost regular expensive)
+;+		(cardinality 0 1)
+		(create-accessor read-write))
+	(single-slot city
+		(type STRING)
+;+		(cardinality 1 1)
+		(create-accessor read-write)))

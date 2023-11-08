@@ -1,0 +1,5066 @@
+;*************** HOTELS ***************
+([Residence_Paradise_0] of Hotel
+
+(city "Wellington")
+(NameHotel "Residence Paradise 0")
+(price lowCost)
+)
+
+
+([Residence_Lollipop_1] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Residence Lollipop 1")
+(price lowCost)
+)
+
+
+([Hotel_Chill_2] of Hotel
+
+(city "Wellington")
+(NameHotel "Hotel Chill 2")
+(price expensive)
+)
+
+
+([Apartments_Paradise_3] of Hotel
+
+(city "Istanbul")
+(NameHotel "Apartments Paradise 3")
+(price lowCost)
+)
+
+
+([Apartments_Paradise_4] of Hotel
+
+(city "Tokio")
+(NameHotel "Apartments Paradise 4")
+(price regular)
+)
+
+
+([Apartments_Emperor_5] of Hotel
+
+(city "London")
+(NameHotel "Apartments Emperor 5")
+(price regular)
+)
+
+
+([Residence_Single_Land_6] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Residence Single Land 6")
+(price lowCost)
+)
+
+
+([Apartments_Paradise_7] of Hotel
+
+(city "Beijing")
+(NameHotel "Apartments Paradise 7")
+(price lowCost)
+)
+
+
+([Residence_Single_Land_8] of Hotel
+
+(city "Melbourne")
+(NameHotel "Residence Single Land 8")
+(price expensive)
+)
+
+
+([Hotel_Single_Land_9] of Hotel
+
+(city "Caracas")
+(NameHotel "Hotel Single Land 9")
+(price regular)
+)
+
+
+([Hostel_Chill_10] of Hotel
+
+(city "Istanbul")
+(NameHotel "Hostel Chill 10")
+(price expensive)
+)
+
+
+([Hotel_Lollipop_11] of Hotel
+
+(city "Caracas")
+(NameHotel "Hotel Lollipop 11")
+(price lowCost)
+)
+
+
+([Residence_Relax_12] of Hotel
+
+(city "London")
+(NameHotel "Residence Relax 12")
+(price lowCost)
+)
+
+
+([Apartments_Emperor_13] of Hotel
+
+(city "Moscow")
+(NameHotel "Apartments Emperor 13")
+(price regular)
+)
+
+
+([Apartments_Paradise_14] of Hotel
+
+(city "Krakow")
+(NameHotel "Apartments Paradise 14")
+(price regular)
+)
+
+
+([Resort_Chill_15] of Hotel
+
+(city "Rome")
+(NameHotel "Resort Chill 15")
+(price expensive)
+)
+
+
+([Hotel_Relax_16] of Hotel
+
+(city "Krakow")
+(NameHotel "Hotel Relax 16")
+(price lowCost)
+)
+
+
+([Hotel_Emperor_17] of Hotel
+
+(city "Beijing")
+(NameHotel "Hotel Emperor 17")
+(price expensive)
+)
+
+
+([Apartments_Chill_18] of Hotel
+
+(city "Dublin")
+(NameHotel "Apartments Chill 18")
+(price regular)
+)
+
+
+([Hostel_Relax_19] of Hotel
+
+(city "Venice")
+(NameHotel "Hostel Relax 19")
+(price regular)
+)
+
+
+([Hostel_Emperor_20] of Hotel
+
+(city "La Habana")
+(NameHotel "Hostel Emperor 20")
+(price regular)
+)
+
+
+([Apartments_Paradise_21] of Hotel
+
+(city "Nova Dheli")
+(NameHotel "Apartments Paradise 21")
+(price lowCost)
+)
+
+
+([Resort_Chill_22] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Resort Chill 22")
+(price regular)
+)
+
+
+([Apartments_Relax_23] of Hotel
+
+(city "London")
+(NameHotel "Apartments Relax 23")
+(price lowCost)
+)
+
+
+([Hotel_Paradise_24] of Hotel
+
+(city "Istanbul")
+(NameHotel "Hotel Paradise 24")
+(price expensive)
+)
+
+
+([Apartments_Chill_25] of Hotel
+
+(city "Cali")
+(NameHotel "Apartments Chill 25")
+(price regular)
+)
+
+
+([Residence_Paradise_26] of Hotel
+
+(city "Taiwan")
+(NameHotel "Residence Paradise 26")
+(price expensive)
+)
+
+
+([Hostel_Emperor_27] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Hostel Emperor 27")
+(price lowCost)
+)
+
+
+([Hotel_Emperor_28] of Hotel
+
+(city "Berlin")
+(NameHotel "Hotel Emperor 28")
+(price lowCost)
+)
+
+
+([Hotel_Single_Land_29] of Hotel
+
+(city "New York")
+(NameHotel "Hotel Single Land 29")
+(price lowCost)
+)
+
+
+([Residence_Relax_30] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Residence Relax 30")
+(price regular)
+)
+
+
+([Apartments_Paradise_31] of Hotel
+
+(city "Sidney")
+(NameHotel "Apartments Paradise 31")
+(price lowCost)
+)
+
+
+([Apartments_Single_Land_32] of Hotel
+
+(city "Wellington")
+(NameHotel "Apartments Single Land 32")
+(price regular)
+)
+
+
+([Resort_Lollipop_33] of Hotel
+
+(city "Cali")
+(NameHotel "Resort Lollipop 33")
+(price regular)
+)
+
+
+([Hostel_Lollipop_34] of Hotel
+
+(city "Caracas")
+(NameHotel "Hostel Lollipop 34")
+(price regular)
+)
+
+
+([Hotel_Single_Land_35] of Hotel
+
+(city "Paris")
+(NameHotel "Hotel Single Land 35")
+(price regular)
+)
+
+
+([Hotel_Paradise_36] of Hotel
+
+(city "Beijing")
+(NameHotel "Hotel Paradise 36")
+(price regular)
+)
+
+
+([Hotel_Relax_37] of Hotel
+
+(city "Paris")
+(NameHotel "Hotel Relax 37")
+(price lowCost)
+)
+
+
+([Resort_Single_Land_38] of Hotel
+
+(city "Beijing")
+(NameHotel "Resort Single Land 38")
+(price lowCost)
+)
+
+
+([Resort_Relax_39] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Resort Relax 39")
+(price regular)
+)
+
+
+([Resort_Paradise_40] of Hotel
+
+(city "La Habana")
+(NameHotel "Resort Paradise 40")
+(price expensive)
+)
+
+
+([Hotel_Paradise_41] of Hotel
+
+(city "Tokio")
+(NameHotel "Hotel Paradise 41")
+(price expensive)
+)
+
+
+([Apartments_Paradise_42] of Hotel
+
+(city "Wellington")
+(NameHotel "Apartments Paradise 42")
+(price regular)
+)
+
+
+([Hostel_Lollipop_43] of Hotel
+
+(city "Sidney")
+(NameHotel "Hostel Lollipop 43")
+(price lowCost)
+)
+
+
+([Hotel_Single_Land_44] of Hotel
+
+(city "Melbourne")
+(NameHotel "Hotel Single Land 44")
+(price expensive)
+)
+
+
+([Resort_Relax_45] of Hotel
+
+(city "Moscow")
+(NameHotel "Resort Relax 45")
+(price lowCost)
+)
+
+
+([Residence_Single_Land_46] of Hotel
+
+(city "Istanbul")
+(NameHotel "Residence Single Land 46")
+(price regular)
+)
+
+
+([Resort_Paradise_47] of Hotel
+
+(city "Sidney")
+(NameHotel "Resort Paradise 47")
+(price expensive)
+)
+
+
+([Hotel_Paradise_48] of Hotel
+
+(city "Caracas")
+(NameHotel "Hotel Paradise 48")
+(price regular)
+)
+
+
+([Residence_Single_Land_49] of Hotel
+
+(city "Berlin")
+(NameHotel "Residence Single Land 49")
+(price lowCost)
+)
+
+
+([Resort_Single_Land_50] of Hotel
+
+(city "Tokio")
+(NameHotel "Resort Single Land 50")
+(price regular)
+)
+
+
+([Resort_Emperor_51] of Hotel
+
+(city "Beijing")
+(NameHotel "Resort Emperor 51")
+(price lowCost)
+)
+
+
+([Resort_Paradise_52] of Hotel
+
+(city "Moscow")
+(NameHotel "Resort Paradise 52")
+(price lowCost)
+)
+
+
+([Apartments_Relax_53] of Hotel
+
+(city "Berlin")
+(NameHotel "Apartments Relax 53")
+(price regular)
+)
+
+
+([Residence_Emperor_54] of Hotel
+
+(city "London")
+(NameHotel "Residence Emperor 54")
+(price regular)
+)
+
+
+([Residence_Lollipop_55] of Hotel
+
+(city "Venice")
+(NameHotel "Residence Lollipop 55")
+(price regular)
+)
+
+
+([Hostel_Single_Land_56] of Hotel
+
+(city "Medellin")
+(NameHotel "Hostel Single Land 56")
+(price lowCost)
+)
+
+
+([Hostel_Relax_57] of Hotel
+
+(city "Wellington")
+(NameHotel "Hostel Relax 57")
+(price expensive)
+)
+
+
+([Resort_Paradise_58] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Resort Paradise 58")
+(price regular)
+)
+
+
+([Residence_Chill_59] of Hotel
+
+(city "Berlin")
+(NameHotel "Residence Chill 59")
+(price expensive)
+)
+
+
+([Apartments_Relax_60] of Hotel
+
+(city "Venice")
+(NameHotel "Apartments Relax 60")
+(price lowCost)
+)
+
+
+([Resort_Single_Land_61] of Hotel
+
+(city "Istanbul")
+(NameHotel "Resort Single Land 61")
+(price expensive)
+)
+
+
+([Hotel_Emperor_62] of Hotel
+
+(city "London")
+(NameHotel "Hotel Emperor 62")
+(price expensive)
+)
+
+
+([Hostel_Chill_63] of Hotel
+
+(city "Venice")
+(NameHotel "Hostel Chill 63")
+(price lowCost)
+)
+
+
+([Resort_Emperor_64] of Hotel
+
+(city "New York")
+(NameHotel "Resort Emperor 64")
+(price lowCost)
+)
+
+
+([Residence_Paradise_65] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Residence Paradise 65")
+(price expensive)
+)
+
+
+([Resort_Emperor_66] of Hotel
+
+(city "Istanbul")
+(NameHotel "Resort Emperor 66")
+(price regular)
+)
+
+
+([Hotel_Relax_67] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Hotel Relax 67")
+(price regular)
+)
+
+
+([Hotel_Relax_68] of Hotel
+
+(city "Caracas")
+(NameHotel "Hotel Relax 68")
+(price lowCost)
+)
+
+
+([Apartments_Lollipop_69] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Apartments Lollipop 69")
+(price regular)
+)
+
+
+([Apartments_Single_Land_70] of Hotel
+
+(city "London")
+(NameHotel "Apartments Single Land 70")
+(price regular)
+)
+
+
+([Apartments_Emperor_71] of Hotel
+
+(city "Berlin")
+(NameHotel "Apartments Emperor 71")
+(price lowCost)
+)
+
+
+([Apartments_Lollipop_72] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Apartments Lollipop 72")
+(price lowCost)
+)
+
+
+([Residence_Emperor_73] of Hotel
+
+(city "Beijing")
+(NameHotel "Residence Emperor 73")
+(price lowCost)
+)
+
+
+([Apartments_Emperor_74] of Hotel
+
+(city "Sidney")
+(NameHotel "Apartments Emperor 74")
+(price regular)
+)
+
+
+([Resort_Lollipop_75] of Hotel
+
+(city "London")
+(NameHotel "Resort Lollipop 75")
+(price lowCost)
+)
+
+
+([Apartments_Paradise_76] of Hotel
+
+(city "Istanbul")
+(NameHotel "Apartments Paradise 76")
+(price regular)
+)
+
+
+([Hostel_Relax_77] of Hotel
+
+(city "La Habana")
+(NameHotel "Hostel Relax 77")
+(price lowCost)
+)
+
+
+([Apartments_Single_Land_78] of Hotel
+
+(city "La Habana")
+(NameHotel "Apartments Single Land 78")
+(price regular)
+)
+
+
+([Resort_Single_Land_79] of Hotel
+
+(city "London")
+(NameHotel "Resort Single Land 79")
+(price expensive)
+)
+
+
+([Resort_Relax_80] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Resort Relax 80")
+(price lowCost)
+)
+
+
+([Resort_Paradise_81] of Hotel
+
+(city "Melbourne")
+(NameHotel "Resort Paradise 81")
+(price lowCost)
+)
+
+
+([Hotel_Paradise_82] of Hotel
+
+(city "Venice")
+(NameHotel "Hotel Paradise 82")
+(price regular)
+)
+
+
+([Resort_Lollipop_83] of Hotel
+
+(city "London")
+(NameHotel "Resort Lollipop 83")
+(price lowCost)
+)
+
+
+([Resort_Single_Land_84] of Hotel
+
+(city "Beijing")
+(NameHotel "Resort Single Land 84")
+(price regular)
+)
+
+
+([Hotel_Single_Land_85] of Hotel
+
+(city "La Habana")
+(NameHotel "Hotel Single Land 85")
+(price lowCost)
+)
+
+
+([Hostel_Emperor_86] of Hotel
+
+(city "Melbourne")
+(NameHotel "Hostel Emperor 86")
+(price lowCost)
+)
+
+
+([Resort_Chill_87] of Hotel
+
+(city "London")
+(NameHotel "Resort Chill 87")
+(price lowCost)
+)
+
+
+([Residence_Emperor_88] of Hotel
+
+(city "Tokio")
+(NameHotel "Residence Emperor 88")
+(price lowCost)
+)
+
+
+([Hotel_Lollipop_89] of Hotel
+
+(city "Sidney")
+(NameHotel "Hotel Lollipop 89")
+(price lowCost)
+)
+
+
+([Hotel_Lollipop_90] of Hotel
+
+(city "Rome")
+(NameHotel "Hotel Lollipop 90")
+(price regular)
+)
+
+
+([Hotel_Single_Land_91] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Hotel Single Land 91")
+(price regular)
+)
+
+
+([Residence_Emperor_92] of Hotel
+
+(city "London")
+(NameHotel "Residence Emperor 92")
+(price expensive)
+)
+
+
+([Residence_Chill_93] of Hotel
+
+(city "Venice")
+(NameHotel "Residence Chill 93")
+(price lowCost)
+)
+
+
+([Hostel_Emperor_94] of Hotel
+
+(city "Wellington")
+(NameHotel "Hostel Emperor 94")
+(price lowCost)
+)
+
+
+([Resort_Chill_95] of Hotel
+
+(city "La Habana")
+(NameHotel "Resort Chill 95")
+(price lowCost)
+)
+
+
+([Resort_Relax_96] of Hotel
+
+(city "Sidney")
+(NameHotel "Resort Relax 96")
+(price regular)
+)
+
+
+([Resort_Relax_97] of Hotel
+
+(city "Istanbul")
+(NameHotel "Resort Relax 97")
+(price regular)
+)
+
+
+([Apartments_Relax_98] of Hotel
+
+(city "Moscow")
+(NameHotel "Apartments Relax 98")
+(price expensive)
+)
+
+
+([Residence_Lollipop_99] of Hotel
+
+(city "Wellington")
+(NameHotel "Residence Lollipop 99")
+(price lowCost)
+)
+
+
+([Hostel_Single_Land_100] of Hotel
+
+(city "Paris")
+(NameHotel "Hostel Single Land 100")
+(price lowCost)
+)
+
+
+([Hostel_Chill_101] of Hotel
+
+(city "Melbourne")
+(NameHotel "Hostel Chill 101")
+(price regular)
+)
+
+
+([Apartments_Emperor_102] of Hotel
+
+(city "Cali")
+(NameHotel "Apartments Emperor 102")
+(price lowCost)
+)
+
+
+([Apartments_Relax_103] of Hotel
+
+(city "Paris")
+(NameHotel "Apartments Relax 103")
+(price lowCost)
+)
+
+
+([Hotel_Chill_104] of Hotel
+
+(city "La Habana")
+(NameHotel "Hotel Chill 104")
+(price lowCost)
+)
+
+
+([Hotel_Lollipop_105] of Hotel
+
+(city "Sidney")
+(NameHotel "Hotel Lollipop 105")
+(price regular)
+)
+
+
+([Apartments_Lollipop_106] of Hotel
+
+(city "Istanbul")
+(NameHotel "Apartments Lollipop 106")
+(price expensive)
+)
+
+
+([Hotel_Relax_107] of Hotel
+
+(city "Rome")
+(NameHotel "Hotel Relax 107")
+(price expensive)
+)
+
+
+([Hostel_Lollipop_108] of Hotel
+
+(city "Sidney")
+(NameHotel "Hostel Lollipop 108")
+(price regular)
+)
+
+
+([Residence_Lollipop_109] of Hotel
+
+(city "Tokio")
+(NameHotel "Residence Lollipop 109")
+(price expensive)
+)
+
+
+([Residence_Emperor_110] of Hotel
+
+(city "Cali")
+(NameHotel "Residence Emperor 110")
+(price expensive)
+)
+
+
+([Hostel_Emperor_111] of Hotel
+
+(city "Istanbul")
+(NameHotel "Hostel Emperor 111")
+(price expensive)
+)
+
+
+([Hotel_Single_Land_112] of Hotel
+
+(city "London")
+(NameHotel "Hotel Single Land 112")
+(price lowCost)
+)
+
+
+([Apartments_Relax_113] of Hotel
+
+(city "New York")
+(NameHotel "Apartments Relax 113")
+(price expensive)
+)
+
+
+([Apartments_Relax_114] of Hotel
+
+(city "Nova Dheli")
+(NameHotel "Apartments Relax 114")
+(price lowCost)
+)
+
+
+([Resort_Lollipop_115] of Hotel
+
+(city "Melbourne")
+(NameHotel "Resort Lollipop 115")
+(price regular)
+)
+
+
+([Hotel_Single_Land_116] of Hotel
+
+(city "Beijing")
+(NameHotel "Hotel Single Land 116")
+(price regular)
+)
+
+
+([Hotel_Paradise_117] of Hotel
+
+(city "Melbourne")
+(NameHotel "Hotel Paradise 117")
+(price expensive)
+)
+
+
+([Residence_Emperor_118] of Hotel
+
+(city "Nova Dheli")
+(NameHotel "Residence Emperor 118")
+(price lowCost)
+)
+
+
+([Residence_Single_Land_119] of Hotel
+
+(city "Tokio")
+(NameHotel "Residence Single Land 119")
+(price expensive)
+)
+
+
+([Residence_Emperor_120] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Residence Emperor 120")
+(price lowCost)
+)
+
+
+([Resort_Paradise_121] of Hotel
+
+(city "Tokio")
+(NameHotel "Resort Paradise 121")
+(price expensive)
+)
+
+
+([Apartments_Chill_122] of Hotel
+
+(city "Berlin")
+(NameHotel "Apartments Chill 122")
+(price expensive)
+)
+
+
+([Residence_Single_Land_123] of Hotel
+
+(city "New York")
+(NameHotel "Residence Single Land 123")
+(price regular)
+)
+
+
+([Hostel_Paradise_124] of Hotel
+
+(city "Istanbul")
+(NameHotel "Hostel Paradise 124")
+(price regular)
+)
+
+
+([Apartments_Paradise_125] of Hotel
+
+(city "Beijing")
+(NameHotel "Apartments Paradise 125")
+(price regular)
+)
+
+
+([Residence_Single_Land_126] of Hotel
+
+(city "London")
+(NameHotel "Residence Single Land 126")
+(price regular)
+)
+
+
+([Residence_Paradise_127] of Hotel
+
+(city "Tokio")
+(NameHotel "Residence Paradise 127")
+(price expensive)
+)
+
+
+([Hostel_Paradise_128] of Hotel
+
+(city "New York")
+(NameHotel "Hostel Paradise 128")
+(price lowCost)
+)
+
+
+([Apartments_Relax_129] of Hotel
+
+(city "La Habana")
+(NameHotel "Apartments Relax 129")
+(price lowCost)
+)
+
+
+([Resort_Paradise_130] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Resort Paradise 130")
+(price lowCost)
+)
+
+
+([Hotel_Chill_131] of Hotel
+
+(city "Caracas")
+(NameHotel "Hotel Chill 131")
+(price regular)
+)
+
+
+([Apartments_Single_Land_132] of Hotel
+
+(city "Krakow")
+(NameHotel "Apartments Single Land 132")
+(price regular)
+)
+
+
+([Residence_Paradise_133] of Hotel
+
+(city "Rome")
+(NameHotel "Residence Paradise 133")
+(price regular)
+)
+
+
+([Residence_Lollipop_134] of Hotel
+
+(city "Medellin")
+(NameHotel "Residence Lollipop 134")
+(price lowCost)
+)
+
+
+([Apartments_Relax_135] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Apartments Relax 135")
+(price lowCost)
+)
+
+
+([Apartments_Chill_136] of Hotel
+
+(city "London")
+(NameHotel "Apartments Chill 136")
+(price expensive)
+)
+
+
+([Hostel_Paradise_137] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Hostel Paradise 137")
+(price lowCost)
+)
+
+
+([Resort_Paradise_138] of Hotel
+
+(city "Melbourne")
+(NameHotel "Resort Paradise 138")
+(price expensive)
+)
+
+
+([Residence_Single_Land_139] of Hotel
+
+(city "Paris")
+(NameHotel "Residence Single Land 139")
+(price expensive)
+)
+
+
+([Residence_Relax_140] of Hotel
+
+(city "New York")
+(NameHotel "Residence Relax 140")
+(price regular)
+)
+
+
+([Resort_Paradise_141] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Resort Paradise 141")
+(price lowCost)
+)
+
+
+([Apartments_Lollipop_142] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Apartments Lollipop 142")
+(price regular)
+)
+
+
+([Hotel_Emperor_143] of Hotel
+
+(city "Krakow")
+(NameHotel "Hotel Emperor 143")
+(price regular)
+)
+
+
+([Hostel_Paradise_144] of Hotel
+
+(city "London")
+(NameHotel "Hostel Paradise 144")
+(price expensive)
+)
+
+
+([Hostel_Chill_145] of Hotel
+
+(city "Taiwan")
+(NameHotel "Hostel Chill 145")
+(price expensive)
+)
+
+
+([Residence_Emperor_146] of Hotel
+
+(city "Berlin")
+(NameHotel "Residence Emperor 146")
+(price lowCost)
+)
+
+
+([Apartments_Lollipop_147] of Hotel
+
+(city "Beijing")
+(NameHotel "Apartments Lollipop 147")
+(price regular)
+)
+
+
+([Hostel_Relax_148] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Hostel Relax 148")
+(price expensive)
+)
+
+
+([Residence_Relax_149] of Hotel
+
+(city "Taiwan")
+(NameHotel "Residence Relax 149")
+(price lowCost)
+)
+
+
+([Hostel_Paradise_150] of Hotel
+
+(city "London")
+(NameHotel "Hostel Paradise 150")
+(price regular)
+)
+
+
+([Hotel_Chill_151] of Hotel
+
+(city "Tokio")
+(NameHotel "Hotel Chill 151")
+(price lowCost)
+)
+
+
+([Residence_Lollipop_152] of Hotel
+
+(city "Paris")
+(NameHotel "Residence Lollipop 152")
+(price regular)
+)
+
+
+([Residence_Single_Land_153] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Residence Single Land 153")
+(price regular)
+)
+
+
+([Residence_Chill_154] of Hotel
+
+(city "Melbourne")
+(NameHotel "Residence Chill 154")
+(price expensive)
+)
+
+
+([Residence_Paradise_155] of Hotel
+
+(city "Cali")
+(NameHotel "Residence Paradise 155")
+(price regular)
+)
+
+
+([Apartments_Relax_156] of Hotel
+
+(city "Nova Dheli")
+(NameHotel "Apartments Relax 156")
+(price regular)
+)
+
+
+([Hostel_Chill_157] of Hotel
+
+(city "Beijing")
+(NameHotel "Hostel Chill 157")
+(price lowCost)
+)
+
+
+([Hotel_Chill_158] of Hotel
+
+(city "Venice")
+(NameHotel "Hotel Chill 158")
+(price lowCost)
+)
+
+
+([Hotel_Paradise_159] of Hotel
+
+(city "Tokio")
+(NameHotel "Hotel Paradise 159")
+(price expensive)
+)
+
+
+([Apartments_Emperor_160] of Hotel
+
+(city "Venice")
+(NameHotel "Apartments Emperor 160")
+(price lowCost)
+)
+
+
+([Resort_Relax_161] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Resort Relax 161")
+(price regular)
+)
+
+
+([Resort_Lollipop_162] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Resort Lollipop 162")
+(price regular)
+)
+
+
+([Resort_Emperor_163] of Hotel
+
+(city "La Habana")
+(NameHotel "Resort Emperor 163")
+(price expensive)
+)
+
+
+([Hostel_Relax_164] of Hotel
+
+(city "Taiwan")
+(NameHotel "Hostel Relax 164")
+(price regular)
+)
+
+
+([Apartments_Emperor_165] of Hotel
+
+(city "Taiwan")
+(NameHotel "Apartments Emperor 165")
+(price expensive)
+)
+
+
+([Hostel_Relax_166] of Hotel
+
+(city "Beijing")
+(NameHotel "Hostel Relax 166")
+(price regular)
+)
+
+
+([Hotel_Paradise_167] of Hotel
+
+(city "Sidney")
+(NameHotel "Hotel Paradise 167")
+(price expensive)
+)
+
+
+([Resort_Emperor_168] of Hotel
+
+(city "Moscow")
+(NameHotel "Resort Emperor 168")
+(price expensive)
+)
+
+
+([Hotel_Relax_169] of Hotel
+
+(city "Sidney")
+(NameHotel "Hotel Relax 169")
+(price regular)
+)
+
+
+([Apartments_Relax_170] of Hotel
+
+(city "Moscow")
+(NameHotel "Apartments Relax 170")
+(price expensive)
+)
+
+
+([Hotel_Lollipop_171] of Hotel
+
+(city "Moscow")
+(NameHotel "Hotel Lollipop 171")
+(price regular)
+)
+
+
+([Hotel_Paradise_172] of Hotel
+
+(city "Medellin")
+(NameHotel "Hotel Paradise 172")
+(price regular)
+)
+
+
+([Hostel_Lollipop_173] of Hotel
+
+(city "Taiwan")
+(NameHotel "Hostel Lollipop 173")
+(price expensive)
+)
+
+
+([Residence_Emperor_174] of Hotel
+
+(city "Nova Dheli")
+(NameHotel "Residence Emperor 174")
+(price regular)
+)
+
+
+([Residence_Chill_175] of Hotel
+
+(city "Sidney")
+(NameHotel "Residence Chill 175")
+(price lowCost)
+)
+
+
+([Hotel_Emperor_176] of Hotel
+
+(city "Beijing")
+(NameHotel "Hotel Emperor 176")
+(price expensive)
+)
+
+
+([Resort_Emperor_177] of Hotel
+
+(city "Paris")
+(NameHotel "Resort Emperor 177")
+(price lowCost)
+)
+
+
+([Hostel_Emperor_178] of Hotel
+
+(city "Wellington")
+(NameHotel "Hostel Emperor 178")
+(price regular)
+)
+
+
+([Resort_Relax_179] of Hotel
+
+(city "Sidney")
+(NameHotel "Resort Relax 179")
+(price expensive)
+)
+
+
+([Apartments_Single_Land_180] of Hotel
+
+(city "Rio de Janeiro")
+(NameHotel "Apartments Single Land 180")
+(price regular)
+)
+
+
+([Residence_Lollipop_181] of Hotel
+
+(city "Venice")
+(NameHotel "Residence Lollipop 181")
+(price lowCost)
+)
+
+
+([Residence_Paradise_182] of Hotel
+
+(city "Caracas")
+(NameHotel "Residence Paradise 182")
+(price lowCost)
+)
+
+
+([Apartments_Emperor_183] of Hotel
+
+(city "Wellington")
+(NameHotel "Apartments Emperor 183")
+(price regular)
+)
+
+
+([Apartments_Lollipop_184] of Hotel
+
+(city "Beijing")
+(NameHotel "Apartments Lollipop 184")
+(price regular)
+)
+
+
+([Hostel_Single_Land_185] of Hotel
+
+(city "Istanbul")
+(NameHotel "Hostel Single Land 185")
+(price regular)
+)
+
+
+([Hostel_Lollipop_186] of Hotel
+
+(city "Taiwan")
+(NameHotel "Hostel Lollipop 186")
+(price lowCost)
+)
+
+
+([Resort_Paradise_187] of Hotel
+
+(city "New York")
+(NameHotel "Resort Paradise 187")
+(price expensive)
+)
+
+
+([Apartments_Chill_188] of Hotel
+
+(city "New York")
+(NameHotel "Apartments Chill 188")
+(price regular)
+)
+
+
+([Apartments_Chill_189] of Hotel
+
+(city "Melbourne")
+(NameHotel "Apartments Chill 189")
+(price regular)
+)
+
+
+([Resort_Chill_190] of Hotel
+
+(city "La Habana")
+(NameHotel "Resort Chill 190")
+(price regular)
+)
+
+
+([Residence_Chill_191] of Hotel
+
+(city "Taiwan")
+(NameHotel "Residence Chill 191")
+(price regular)
+)
+
+
+([Hotel_Lollipop_192] of Hotel
+
+(city "Dublin")
+(NameHotel "Hotel Lollipop 192")
+(price regular)
+)
+
+
+([Resort_Emperor_193] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Resort Emperor 193")
+(price expensive)
+)
+
+
+([Hostel_Chill_194] of Hotel
+
+(city "Edinburgh")
+(NameHotel "Hostel Chill 194")
+(price lowCost)
+)
+
+
+([Resort_Paradise_195] of Hotel
+
+(city "Tokio")
+(NameHotel "Resort Paradise 195")
+(price expensive)
+)
+
+
+([Hostel_Relax_196] of Hotel
+
+(city "Paris")
+(NameHotel "Hostel Relax 196")
+(price expensive)
+)
+
+
+([Apartments_Relax_197] of Hotel
+
+(city "Beijing")
+(NameHotel "Apartments Relax 197")
+(price expensive)
+)
+
+
+([Resort_Lollipop_198] of Hotel
+
+(city "Paris")
+(NameHotel "Resort Lollipop 198")
+(price lowCost)
+)
+
+
+([Apartments_Relax_199] of Hotel
+
+(city "Saint Petersburg")
+(NameHotel "Apartments Relax 199")
+(price lowCost)
+)
+
+
+;*************** INTEREST POINTS ***************
+([Square_of_Spaghetti_monster_0] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Spaghetti monster 0")
+(publicAge)
+)
+
+
+([Statue_of_Superman_1] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Superman 1")
+(publicAge)
+)
+
+
+([Church_of_Lenin_2] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Lenin 2")
+(publicAge Junior Veteran)
+)
+
+
+([Castle_of_Power_Rangers_3] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Power Rangers 3")
+(publicAge Junior)
+)
+
+
+([Church_of_Superman_4] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Superman 4")
+(publicAge)
+)
+
+
+([Church_of_Diversity_5] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Diversity 5")
+(publicAge)
+)
+
+
+([Statue_of_Spaghetti_monster_6] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Spaghetti monster 6")
+(publicAge)
+)
+
+
+([Statue_of_Superman_7] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Superman 7")
+(publicAge Junior)
+)
+
+
+([Castle_of_Leo_Messi_8] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 8")
+(publicAge Junior Veteran)
+)
+
+
+([Statue_of_Lenin_9] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 9")
+(publicAge Senior)
+)
+
+
+([Church_of_Leo_Messi_10] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Leo Messi 10")
+(publicAge Junior Senior)
+)
+
+
+([Museum_of_Spaghetti_monster_11] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 11")
+(publicAge)
+)
+
+
+([Castle_of_Lenin_12] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Castle of Lenin 12")
+(publicAge)
+)
+
+
+([Museum_of_Power_Rangers_13] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Power Rangers 13")
+(publicAge)
+)
+
+
+([Museum_of_Spaghetti_monster_14] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 14")
+(publicAge)
+)
+
+
+([Church_of_Leo_Messi_15] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Leo Messi 15")
+(publicAge)
+)
+
+
+([Museum_of_Lenin_16] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Lenin 16")
+(publicAge Veteran)
+)
+
+
+([Museum_of_Leo_Messi_17] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Leo Messi 17")
+(publicAge Junior)
+)
+
+
+([Statue_of_Leo_Messi_18] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Statue of Leo Messi 18")
+(publicAge Junior)
+)
+
+
+([Church_of_Diversity_19] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Church of Diversity 19")
+(publicAge Senior)
+)
+
+
+([Square_of_Spaghetti_monster_20] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Spaghetti monster 20")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Power_Rangers_21] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 21")
+(publicAge Junior Veteran)
+)
+
+
+([Castle_of_Power_Rangers_22] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Power Rangers 22")
+(publicAge Senior)
+)
+
+
+([Castle_of_Diversity_23] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Castle of Diversity 23")
+(publicAge Veteran)
+)
+
+
+([Church_of_Leo_Messi_24] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Leo Messi 24")
+(publicAge Junior Senior)
+)
+
+
+([Castle_of_Lenin_25] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Lenin 25")
+(publicAge Senior)
+)
+
+
+([Museum_of_Leo_Messi_26] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Leo Messi 26")
+(publicAge)
+)
+
+
+([Statue_of_Superman_27] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Statue of Superman 27")
+(publicAge Junior)
+)
+
+
+([Castle_of_Diversity_28] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Diversity 28")
+(publicAge Junior Senior)
+)
+
+
+([Church_of_Spaghetti_monster_29] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Spaghetti monster 29")
+(publicAge Senior)
+)
+
+
+([Church_of_Lenin_30] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Church of Lenin 30")
+(publicAge Junior)
+)
+
+
+([Church_of_Lenin_31] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Church of Lenin 31")
+(publicAge)
+)
+
+
+([Church_of_Leo_Messi_32] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Church of Leo Messi 32")
+(publicAge Veteran)
+)
+
+
+([Church_of_Spaghetti_monster_33] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Spaghetti monster 33")
+(publicAge)
+)
+
+
+([Castle_of_Leo_Messi_34] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 34")
+(publicAge Veteran)
+)
+
+
+([Castle_of_Leo_Messi_35] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 35")
+(publicAge Senior)
+)
+
+
+([Church_of_Diversity_36] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Diversity 36")
+(publicAge)
+)
+
+
+([Castle_of_Lenin_37] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Castle of Lenin 37")
+(publicAge Veteran)
+)
+
+
+([Museum_of_Spaghetti_monster_38] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Spaghetti monster 38")
+(publicAge)
+)
+
+
+([Square_of_Lenin_39] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Lenin 39")
+(publicAge Junior Veteran)
+)
+
+
+([Statue_of_Diversity_40] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 40")
+(publicAge Junior)
+)
+
+
+([Museum_of_Superman_41] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Superman 41")
+(publicAge Veteran)
+)
+
+
+([Castle_of_Lenin_42] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Lenin 42")
+(publicAge Junior Veteran)
+)
+
+
+([Museum_of_Superman_43] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Superman 43")
+(publicAge Junior)
+)
+
+
+([Church_of_Lenin_44] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Church of Lenin 44")
+(publicAge Junior Veteran)
+)
+
+
+([Square_of_Power_Rangers_45] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Power Rangers 45")
+(publicAge)
+)
+
+
+([Castle_of_Lenin_46] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Castle of Lenin 46")
+(publicAge)
+)
+
+
+([Statue_of_Lenin_47] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 47")
+(publicAge Junior)
+)
+
+
+([Museum_of_Diversity_48] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Diversity 48")
+(publicAge)
+)
+
+
+([Castle_of_Lenin_49] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Lenin 49")
+(publicAge Junior Veteran)
+)
+
+
+([Museum_of_Power_Rangers_50] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 50")
+(publicAge Junior)
+)
+
+
+([Statue_of_Diversity_51] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Statue of Diversity 51")
+(publicAge Junior)
+)
+
+
+([Museum_of_Power_Rangers_52] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 52")
+(publicAge Junior Veteran)
+)
+
+
+([Statue_of_Diversity_53] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 53")
+(publicAge Junior Veteran)
+)
+
+
+([Square_of_Lenin_54] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Lenin 54")
+(publicAge Junior)
+)
+
+
+([Statue_of_Diversity_55] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 55")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Leo_Messi_56] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Leo Messi 56")
+(publicAge)
+)
+
+
+([Museum_of_Power_Rangers_57] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 57")
+(publicAge Veteran)
+)
+
+
+([Museum_of_Superman_58] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Superman 58")
+(publicAge Junior Senior)
+)
+
+
+([Square_of_Spaghetti_monster_59] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Spaghetti monster 59")
+(publicAge Veteran)
+)
+
+
+([Church_of_Spaghetti_monster_60] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Church of Spaghetti monster 60")
+(publicAge Senior Veteran)
+)
+
+
+([Square_of_Lenin_61] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Lenin 61")
+(publicAge Junior)
+)
+
+
+([Church_of_Lenin_62] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Church of Lenin 62")
+(publicAge Veteran)
+)
+
+
+([Museum_of_Spaghetti_monster_63] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 63")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Power_Rangers_64] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 64")
+(publicAge Veteran)
+)
+
+
+([Church_of_Spaghetti_monster_65] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Spaghetti monster 65")
+(publicAge Senior Veteran)
+)
+
+
+([Church_of_Diversity_66] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Diversity 66")
+(publicAge Junior Senior Veteran)
+)
+
+
+([Museum_of_Leo_Messi_67] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Leo Messi 67")
+(publicAge Junior)
+)
+
+
+([Museum_of_Leo_Messi_68] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Leo Messi 68")
+(publicAge)
+)
+
+
+([Church_of_Lenin_69] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Lenin 69")
+(publicAge Senior Veteran)
+)
+
+
+([Square_of_Power_Rangers_70] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Power Rangers 70")
+(publicAge Junior Senior)
+)
+
+
+([Square_of_Leo_Messi_71] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Leo Messi 71")
+(publicAge Junior Senior)
+)
+
+
+([Statue_of_Power_Rangers_72] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 72")
+(publicAge)
+)
+
+
+([Church_of_Superman_73] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Superman 73")
+(publicAge Junior)
+)
+
+
+([Church_of_Superman_74] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Superman 74")
+(publicAge Senior)
+)
+
+
+([Castle_of_Power_Rangers_75] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Power Rangers 75")
+(publicAge)
+)
+
+
+([Square_of_Spaghetti_monster_76] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Spaghetti monster 76")
+(publicAge Junior)
+)
+
+
+([Castle_of_Lenin_77] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Castle of Lenin 77")
+(publicAge Senior)
+)
+
+
+([Square_of_Power_Rangers_78] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Power Rangers 78")
+(publicAge)
+)
+
+
+([Square_of_Power_Rangers_79] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Power Rangers 79")
+(publicAge Veteran)
+)
+
+
+([Castle_of_Leo_Messi_80] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 80")
+(publicAge)
+)
+
+
+([Museum_of_Power_Rangers_81] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 81")
+(publicAge Junior Veteran)
+)
+
+
+([Church_of_Power_Rangers_82] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Power Rangers 82")
+(publicAge Junior)
+)
+
+
+([Square_of_Leo_Messi_83] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Leo Messi 83")
+(publicAge Junior Veteran)
+)
+
+
+([Statue_of_Power_Rangers_84] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 84")
+(publicAge Veteran)
+)
+
+
+([Square_of_Leo_Messi_85] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Leo Messi 85")
+(publicAge Veteran)
+)
+
+
+([Church_of_Power_Rangers_86] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Power Rangers 86")
+(publicAge Senior)
+)
+
+
+([Castle_of_Power_Rangers_87] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Power Rangers 87")
+(publicAge)
+)
+
+
+([Museum_of_Lenin_88] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Lenin 88")
+(publicAge Junior Senior)
+)
+
+
+([Church_of_Diversity_89] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Diversity 89")
+(publicAge)
+)
+
+
+([Square_of_Superman_90] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Superman 90")
+(publicAge Junior Senior)
+)
+
+
+([Museum_of_Spaghetti_monster_91] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 91")
+(publicAge)
+)
+
+
+([Statue_of_Lenin_92] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 92")
+(publicAge Junior Veteran)
+)
+
+
+([Square_of_Power_Rangers_93] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Power Rangers 93")
+(publicAge)
+)
+
+
+([Statue_of_Diversity_94] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 94")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Lenin_95] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 95")
+(publicAge)
+)
+
+
+([Museum_of_Power_Rangers_96] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 96")
+(publicAge Senior)
+)
+
+
+([Castle_of_Superman_97] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Castle of Superman 97")
+(publicAge Senior)
+)
+
+
+([Museum_of_Diversity_98] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Diversity 98")
+(publicAge)
+)
+
+
+([Museum_of_Lenin_99] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Lenin 99")
+(publicAge Veteran)
+)
+
+
+([Square_of_Superman_100] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Superman 100")
+(publicAge)
+)
+
+
+([Square_of_Superman_101] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Superman 101")
+(publicAge Junior Veteran)
+)
+
+
+([Square_of_Lenin_102] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Lenin 102")
+(publicAge)
+)
+
+
+([Museum_of_Power_Rangers_103] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Power Rangers 103")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Lenin_104] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 104")
+(publicAge Junior Senior)
+)
+
+
+([Square_of_Power_Rangers_105] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Power Rangers 105")
+(publicAge Senior)
+)
+
+
+([Museum_of_Spaghetti_monster_106] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Spaghetti monster 106")
+(publicAge Junior)
+)
+
+
+([Castle_of_Superman_107] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Superman 107")
+(publicAge Junior Senior)
+)
+
+
+([Square_of_Lenin_108] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Lenin 108")
+(publicAge Junior)
+)
+
+
+([Museum_of_Lenin_109] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Lenin 109")
+(publicAge Junior Senior)
+)
+
+
+([Statue_of_Power_Rangers_110] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Statue of Power Rangers 110")
+(publicAge Junior Senior)
+)
+
+
+([Church_of_Power_Rangers_111] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Power Rangers 111")
+(publicAge Junior)
+)
+
+
+([Museum_of_Leo_Messi_112] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Leo Messi 112")
+(publicAge Junior Senior Veteran)
+)
+
+
+([Museum_of_Spaghetti_monster_113] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 113")
+(publicAge Junior Senior)
+)
+
+
+([Square_of_Spaghetti_monster_114] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Spaghetti monster 114")
+(publicAge Veteran)
+)
+
+
+([Church_of_Diversity_115] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Diversity 115")
+(publicAge Junior Senior)
+)
+
+
+([Castle_of_Leo_Messi_116] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Castle of Leo Messi 116")
+(publicAge Senior)
+)
+
+
+([Castle_of_Leo_Messi_117] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 117")
+(publicAge)
+)
+
+
+([Square_of_Lenin_118] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Lenin 118")
+(publicAge Junior Veteran)
+)
+
+
+([Statue_of_Diversity_119] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 119")
+(publicAge)
+)
+
+
+([Church_of_Diversity_120] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Diversity 120")
+(publicAge Senior Veteran)
+)
+
+
+([Square_of_Lenin_121] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Lenin 121")
+(publicAge Veteran)
+)
+
+
+([Castle_of_Superman_122] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Superman 122")
+(publicAge)
+)
+
+
+([Museum_of_Superman_123] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Superman 123")
+(publicAge Junior)
+)
+
+
+([Castle_of_Lenin_124] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Lenin 124")
+(publicAge Senior Veteran)
+)
+
+
+([Square_of_Superman_125] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Superman 125")
+(publicAge)
+)
+
+
+([Museum_of_Diversity_126] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Diversity 126")
+(publicAge)
+)
+
+
+([Statue_of_Lenin_127] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 127")
+(publicAge Veteran)
+)
+
+
+([Museum_of_Diversity_128] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Diversity 128")
+(publicAge Senior)
+)
+
+
+([Castle_of_Power_Rangers_129] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Castle of Power Rangers 129")
+(publicAge)
+)
+
+
+([Castle_of_Lenin_130] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Lenin 130")
+(publicAge Senior)
+)
+
+
+([Square_of_Leo_Messi_131] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Leo Messi 131")
+(publicAge Veteran)
+)
+
+
+([Square_of_Diversity_132] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Diversity 132")
+(publicAge Senior Veteran)
+)
+
+
+([Museum_of_Spaghetti_monster_133] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Spaghetti monster 133")
+(publicAge Senior)
+)
+
+
+([Square_of_Diversity_134] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Diversity 134")
+(publicAge)
+)
+
+
+([Church_of_Lenin_135] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Lenin 135")
+(publicAge Senior Veteran)
+)
+
+
+([Statue_of_Lenin_136] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 136")
+(publicAge)
+)
+
+
+([Castle_of_Diversity_137] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Diversity 137")
+(publicAge)
+)
+
+
+([Museum_of_Superman_138] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Superman 138")
+(publicAge Junior Veteran)
+)
+
+
+([Statue_of_Lenin_139] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Lenin 139")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Diversity_140] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 140")
+(publicAge Veteran)
+)
+
+
+([Square_of_Spaghetti_monster_141] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Spaghetti monster 141")
+(publicAge Junior)
+)
+
+
+([Museum_of_Diversity_142] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Diversity 142")
+(publicAge)
+)
+
+
+([Museum_of_Spaghetti_monster_143] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 143")
+(publicAge Junior)
+)
+
+
+([Square_of_Spaghetti_monster_144] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Spaghetti monster 144")
+(publicAge Senior)
+)
+
+
+([Museum_of_Power_Rangers_145] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 145")
+(publicAge)
+)
+
+
+([Church_of_Spaghetti_monster_146] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Spaghetti monster 146")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Lenin_147] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Statue of Lenin 147")
+(publicAge Veteran)
+)
+
+
+([Museum_of_Power_Rangers_148] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Museum of Power Rangers 148")
+(publicAge Senior)
+)
+
+
+([Statue_of_Power_Rangers_149] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 149")
+(publicAge Junior)
+)
+
+
+([Square_of_Leo_Messi_150] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Leo Messi 150")
+(publicAge Senior Veteran)
+)
+
+
+([Castle_of_Leo_Messi_151] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 151")
+(publicAge Junior)
+)
+
+
+([Square_of_Spaghetti_monster_152] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Spaghetti monster 152")
+(publicAge Junior Veteran)
+)
+
+
+([Castle_of_Lenin_153] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Lenin 153")
+(publicAge)
+)
+
+
+([Statue_of_Spaghetti_monster_154] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Spaghetti monster 154")
+(publicAge)
+)
+
+
+([Museum_of_Superman_155] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Superman 155")
+(publicAge Junior)
+)
+
+
+([Statue_of_Power_Rangers_156] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 156")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Spaghetti_monster_157] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Spaghetti monster 157")
+(publicAge Junior)
+)
+
+
+([Church_of_Superman_158] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Superman 158")
+(publicAge Junior)
+)
+
+
+([Square_of_Leo_Messi_159] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Leo Messi 159")
+(publicAge)
+)
+
+
+([Square_of_Diversity_160] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Diversity 160")
+(publicAge Senior)
+)
+
+
+([Square_of_Leo_Messi_161] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Square of Leo Messi 161")
+(publicAge Senior)
+)
+
+
+([Church_of_Lenin_162] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Lenin 162")
+(publicAge Senior Veteran)
+)
+
+
+([Castle_of_Power_Rangers_163] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Power Rangers 163")
+(publicAge Junior)
+)
+
+
+([Statue_of_Power_Rangers_164] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Power Rangers 164")
+(publicAge Veteran)
+)
+
+
+([Castle_of_Power_Rangers_165] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Castle of Power Rangers 165")
+(publicAge)
+)
+
+
+([Castle_of_Leo_Messi_166] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Leo Messi 166")
+(publicAge Veteran)
+)
+
+
+([Church_of_Lenin_167] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Lenin 167")
+(publicAge Senior Veteran)
+)
+
+
+([Statue_of_Diversity_168] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Diversity 168")
+(publicAge)
+)
+
+
+([Museum_of_Leo_Messi_169] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Leo Messi 169")
+(publicAge Junior Senior Veteran)
+)
+
+
+([Church_of_Lenin_170] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Church of Lenin 170")
+(publicAge Senior)
+)
+
+
+([Museum_of_Lenin_171] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Lenin 171")
+(publicAge Senior Veteran)
+)
+
+
+([Castle_of_Power_Rangers_172] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Castle of Power Rangers 172")
+(publicAge Senior)
+)
+
+
+([Statue_of_Spaghetti_monster_173] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Spaghetti monster 173")
+(publicAge Junior)
+)
+
+
+([Castle_of_Spaghetti_monster_174] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Spaghetti monster 174")
+(publicAge)
+)
+
+
+([Museum_of_Spaghetti_monster_175] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 175")
+(publicAge Senior)
+)
+
+
+([Square_of_Spaghetti_monster_176] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Square of Spaghetti monster 176")
+(publicAge Senior Veteran)
+)
+
+
+([Square_of_Diversity_177] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Diversity 177")
+(publicAge Senior)
+)
+
+
+([Church_of_Power_Rangers_178] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Power Rangers 178")
+(publicAge)
+)
+
+
+([Museum_of_Spaghetti_monster_179] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Spaghetti monster 179")
+(publicAge Junior)
+)
+
+
+([Statue_of_Leo_Messi_180] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Statue of Leo Messi 180")
+(publicAge Veteran)
+)
+
+
+([Statue_of_Superman_181] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Statue of Superman 181")
+(publicAge)
+)
+
+
+([Museum_of_Spaghetti_monster_182] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Spaghetti monster 182")
+(publicAge Junior Veteran)
+)
+
+
+([Church_of_Power_Rangers_183] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Church of Power Rangers 183")
+(publicAge Junior Senior)
+)
+
+
+([Museum_of_Superman_184] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Superman 184")
+(publicAge Junior)
+)
+
+
+([Museum_of_Lenin_185] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Museum of Lenin 185")
+(publicAge Junior)
+)
+
+
+([Statue_of_Diversity_186] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Statue of Diversity 186")
+(publicAge Senior Veteran)
+)
+
+
+([Statue_of_Diversity_187] of interestPoint
+
+( cultural TRUE)
+( forFamilies TRUE)
+(Name "Statue of Diversity 187")
+(publicAge Junior Veteran)
+)
+
+
+([Castle_of_Diversity_188] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Diversity 188")
+(publicAge)
+)
+
+
+([Church_of_Spaghetti_monster_189] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Spaghetti monster 189")
+(publicAge)
+)
+
+
+([Statue_of_Lenin_190] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Statue of Lenin 190")
+(publicAge Veteran)
+)
+
+
+([Square_of_Spaghetti_monster_191] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Square of Spaghetti monster 191")
+(publicAge Junior Veteran)
+)
+
+
+([Church_of_Superman_192] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Superman 192")
+(publicAge Junior Senior Veteran)
+)
+
+
+([Church_of_Spaghetti_monster_193] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Church of Spaghetti monster 193")
+(publicAge)
+)
+
+
+([Church_of_Diversity_194] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Church of Diversity 194")
+(publicAge Junior)
+)
+
+
+([Square_of_Spaghetti_monster_195] of interestPoint
+
+( cultural FALSE)
+( forFamilies TRUE)
+(Name "Square of Spaghetti monster 195")
+(publicAge)
+)
+
+
+([Museum_of_Power_Rangers_196] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Power Rangers 196")
+(publicAge Senior Veteran)
+)
+
+
+([Castle_of_Spaghetti_monster_197] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Castle of Spaghetti monster 197")
+(publicAge)
+)
+
+
+([Statue_of_Superman_198] of interestPoint
+
+( cultural TRUE)
+( forFamilies FALSE)
+(Name "Statue of Superman 198")
+(publicAge)
+)
+
+
+([Museum_of_Diversity_199] of interestPoint
+
+( cultural FALSE)
+( forFamilies FALSE)
+(Name "Museum of Diversity 199")
+(publicAge)
+)
+
+
+;*************** CONTINENTS ***************
+([Oceania] of Continent
+
+(hasCities 
+	[Melbourne]
+	[Sidney]
+	[Wellington]
+)
+(NameContinent "Oceania")
+)
+
+
+([Asia] of Continent
+
+(hasCities 
+	[Beijing]
+	[Taiwan]
+	[Tokio]
+	[Nova_Dheli]
+)
+(NameContinent "Asia")
+)
+
+
+([Europe] of Continent
+
+(hasCities 
+	[Paris]
+	[London]
+	[Berlin]
+	[Dublin]
+	[Edinburgh]
+	[Moscow]
+	[Krakow]
+	[Venice]
+	[Saint_Petersburg]
+	[Istanbul]
+	[Rome]
+	[Girona]
+	[Sevilla]
+	[Touloise]
+)
+(NameContinent "Europe")
+)
+
+
+([South_America] of Continent
+
+(hasCities 
+	[Caracas]
+	[Rio_de_Janeiro]
+	[La_Habana]
+	[Medellin]
+)
+(NameContinent "South America")
+)
+
+
+([North_America] of Continent
+
+(hasCities 
+	[New_York]
+)
+(NameContinent "North America")
+)
+
+
+([Africa] of Continent
+
+(hasCities 
+)
+(NameContinent "Africa")
+)
+
+
+([Antarctica] of Continent
+
+(hasCities 
+)
+(NameContinent "Antarctica")
+)
+
+
+
+
+;*************** TOURISTIC CITIES ***************
+([Melbourne] of City
+
+(cityType touristic)
+(hasHotels
+	[Residence_Single_Land_8]
+	[Hotel_Single_Land_44]
+	[Resort_Paradise_81]
+	[Hostel_Emperor_86]
+	[Hostel_Chill_101]
+	[Resort_Lollipop_115]
+	[Hotel_Paradise_117]
+	[Resort_Paradise_138]
+	[Residence_Chill_154]
+	[Apartments_Chill_189]
+)
+(hasInterestPoints
+	[Church_of_Superman_4]
+	[Museum_of_Power_Rangers_13]
+	[Castle_of_Lenin_49]
+	[Church_of_Spaghetti_monster_60]
+	[Museum_of_Leo_Messi_67]
+	[Statue_of_Lenin_92]
+	[Statue_of_Power_Rangers_110]
+	[Castle_of_Superman_122]
+	[Museum_of_Diversity_126]
+	[Square_of_Diversity_134]
+	[Statue_of_Spaghetti_monster_154]
+	[Statue_of_Power_Rangers_156]
+	[Statue_of_Spaghetti_monster_157]
+	[Statue_of_Superman_181]
+	[Statue_of_Diversity_186]
+	[Museum_of_Diversity_199]
+)
+(travByPlane
+	[Beijing]
+	[Tokio]
+	[Nova_Dheli]
+	[Moscow]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+	[Wellington]
+	[Sidney]
+)
+(travByCar
+	[Wellington]
+	[Sidney]
+)
+(travByBoat
+	[Tokio]
+	[Taiwan]
+	[Beijing]
+)
+(lifeQuality lowCost)
+(latitude 53.97)
+(longitude 323.93)
+(NameCity "Melbourne")
+)
+
+
+([Sidney] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Paradise_31]
+	[Hostel_Lollipop_43]
+	[Resort_Paradise_47]
+	[Apartments_Emperor_74]
+	[Hotel_Lollipop_89]
+	[Resort_Relax_96]
+	[Hotel_Lollipop_105]
+	[Hostel_Lollipop_108]
+	[Hotel_Paradise_167]
+	[Hotel_Relax_169]
+	[Residence_Chill_175]
+	[Resort_Relax_179]
+)
+(hasInterestPoints
+	[Church_of_Diversity_19]
+	[Church_of_Lenin_31]
+	[Statue_of_Leo_Messi_56]
+	[Museum_of_Leo_Messi_68]
+	[Square_of_Leo_Messi_71]
+	[Square_of_Power_Rangers_79]
+	[Museum_of_Spaghetti_monster_106]
+	[Museum_of_Leo_Messi_112]
+	[Castle_of_Power_Rangers_163]
+	[Statue_of_Diversity_168]
+)
+(travByPlane
+	[Rio_de_Janeiro]
+	[Beijing]
+	[Tokio]
+	[Nova_Dheli]
+	[Moscow]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+	[Saint_Petersburg]
+	[La_Habana]
+)
+(travByTrain
+	[Wellington]
+	[Melbourne]
+)
+(travByCar
+	[Wellington]
+	[Melbourne]
+)
+(travByBoat
+	[Tokio]
+	[Taiwan]
+	[Beijing]
+)
+(lifeQuality regular)
+(latitude 57.85)
+(longitude 230.37)
+(NameCity "Sidney")
+)
+
+
+([Wellington] of City
+
+(cityType touristic)
+(hasHotels
+	[Residence_Paradise_0]
+	[Hotel_Chill_2]
+	[Apartments_Single_Land_32]
+	[Apartments_Paradise_42]
+	[Hostel_Relax_57]
+	[Hostel_Emperor_94]
+	[Residence_Lollipop_99]
+	[Hostel_Emperor_178]
+	[Apartments_Emperor_183]
+)
+(hasInterestPoints
+	[Museum_of_Spaghetti_monster_11]
+	[Museum_of_Superman_43]
+	[Square_of_Power_Rangers_45]
+	[Statue_of_Diversity_55]
+	[Statue_of_Power_Rangers_72]
+	[Museum_of_Lenin_88]
+	[Square_of_Superman_100]
+	[Statue_of_Lenin_147]
+	[Church_of_Lenin_167]
+	[Museum_of_Leo_Messi_169]
+	[Museum_of_Superman_184]
+)
+(travByPlane
+	[Beijing]
+	[Tokio]
+	[Nova_Dheli]
+	[Moscow]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+	[Melbourne]
+	[Sidney]
+)
+(travByCar
+	[Melbourne]
+	[Sidney]
+)
+(travByBoat
+	[Tokio]
+	[Taiwan]
+	[Beijing]
+)
+(lifeQuality regular)
+(latitude 49.24)
+(longitude 283.04)
+(NameCity "Wellington")
+)
+
+
+([Beijing] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Paradise_7]
+	[Hotel_Emperor_17]
+	[Hotel_Paradise_36]
+	[Resort_Single_Land_38]
+	[Resort_Emperor_51]
+	[Residence_Emperor_73]
+	[Resort_Single_Land_84]
+	[Hotel_Single_Land_116]
+	[Apartments_Paradise_125]
+	[Apartments_Lollipop_147]
+	[Hostel_Chill_157]
+	[Hostel_Relax_166]
+	[Hotel_Emperor_176]
+	[Apartments_Lollipop_184]
+	[Apartments_Relax_197]
+)
+(hasInterestPoints
+	[Statue_of_Power_Rangers_84]
+	[Castle_of_Power_Rangers_129]
+	[Statue_of_Diversity_140]
+	[Square_of_Leo_Messi_159]
+	[Church_of_Lenin_162]
+	[Castle_of_Power_Rangers_165]
+)
+(travByPlane
+	[Rio_de_Janeiro]
+	[Nova_Dheli]
+	[Moscow]
+	[Edinburgh]
+	[London]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+	[Taiwan]
+	[Tokio]
+)
+(travByCar
+	[Taiwan]
+	[Tokio]
+)
+(travByBoat
+	[Nova_Dheli]
+	[Krakow]
+)
+(lifeQuality regular)
+(latitude 129.94)
+(longitude 295.84)
+(NameCity "Beijing")
+)
+
+
+([Taiwan] of City
+
+(cityType touristic)
+(hasHotels
+	[Residence_Paradise_26]
+	[Hostel_Chill_145]
+	[Residence_Relax_149]
+	[Hostel_Relax_164]
+	[Apartments_Emperor_165]
+	[Hostel_Lollipop_173]
+	[Hostel_Lollipop_186]
+	[Residence_Chill_191]
+)
+(hasInterestPoints
+	[Statue_of_Spaghetti_monster_6]
+	[Statue_of_Diversity_187]
+	[Church_of_Diversity_194]
+	[Museum_of_Power_Rangers_196]
+)
+(travByPlane
+	[Nova_Dheli]
+	[Moscow]
+	[Edinburgh]
+	[London]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+	[Beijing]
+	[Tokio]
+)
+(travByCar
+	[Beijing]
+	[Tokio]
+)
+(travByBoat
+	[Nova_Dheli]
+	[Krakow]
+)
+(lifeQuality expensive)
+(latitude 113.42)
+(longitude 295.60)
+(NameCity "Taiwan")
+)
+
+
+([Tokio] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Paradise_4]
+	[Hotel_Paradise_41]
+	[Resort_Single_Land_50]
+	[Residence_Emperor_88]
+	[Residence_Lollipop_109]
+	[Residence_Single_Land_119]
+	[Resort_Paradise_121]
+	[Residence_Paradise_127]
+	[Hotel_Chill_151]
+	[Hotel_Paradise_159]
+	[Resort_Paradise_195]
+)
+(hasInterestPoints
+	[Statue_of_Lenin_9]
+	[Square_of_Spaghetti_monster_76]
+	[Square_of_Lenin_121]
+	[Square_of_Leo_Messi_131]
+	[Museum_of_Lenin_171]
+	[Statue_of_Spaghetti_monster_173]
+	[Castle_of_Spaghetti_monster_174]
+	[Museum_of_Spaghetti_monster_175]
+)
+(travByPlane
+	[Rio_de_Janeiro]
+	[Nova_Dheli]
+	[Moscow]
+	[Edinburgh]
+	[London]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[Sevilla]
+	[Caracas]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+	[Taiwan]
+	[Beijing]
+)
+(travByCar
+	[Taiwan]
+	[Beijing]
+)
+(travByBoat
+	[Nova_Dheli]
+	[Krakow]
+)
+(lifeQuality expensive)
+(latitude 125.67)
+(longitude 319.43)
+(NameCity "Tokio")
+)
+
+
+([Nova_Dheli] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Paradise_21]
+	[Apartments_Relax_114]
+	[Residence_Emperor_118]
+	[Apartments_Relax_156]
+	[Residence_Emperor_174]
+)
+(hasInterestPoints
+	[Square_of_Spaghetti_monster_0]
+	[Church_of_Diversity_5]
+	[Museum_of_Leo_Messi_17]
+	[Museum_of_Spaghetti_monster_63]
+	[Church_of_Superman_73]
+	[Castle_of_Superman_97]
+	[Castle_of_Lenin_153]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[Edinburgh]
+	[London]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Istanbul]
+)
+(travByCar
+	[Istanbul]
+)
+(travByBoat
+	[AIProject2_Class11]
+	[Venice]
+	[Rio_de_Janeiro]
+)
+(lifeQuality expensive)
+(latitude 118.53)
+(longitude 256.93)
+(NameCity "Nova Dheli")
+)
+
+
+([Paris] of City
+
+(cityType touristic)
+(hasHotels
+	[Hotel_Single_Land_35]
+	[Hotel_Relax_37]
+	[Hostel_Single_Land_100]
+	[Apartments_Relax_103]
+	[Residence_Single_Land_139]
+	[Residence_Lollipop_152]
+	[Resort_Emperor_177]
+	[Hostel_Relax_196]
+	[Resort_Lollipop_198]
+)
+(hasInterestPoints
+	[Museum_of_Power_Rangers_50]
+	[Church_of_Lenin_62]
+	[Castle_of_Leo_Messi_80]
+	[Square_of_Power_Rangers_105]
+	[Castle_of_Lenin_124]
+	[Statue_of_Power_Rangers_149]
+	[Statue_of_Power_Rangers_164]
+	[Museum_of_Spaghetti_monster_179]
+	[Castle_of_Spaghetti_monster_197]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Rome]
+	[Rio_de_Janeiro]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[London]
+ 	[Berlin]
+ 	[Sevilla]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+	[Touloise]
+)
+(travByCar
+	[London]
+ 	[Berlin]
+ 	[Girona]
+ 	[Sevilla]
+ 	[Touloise]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByBoat
+)
+(lifeQuality expensive)
+(latitude 138.86)
+(longitude 182.21)
+(NameCity "Paris")
+)
+
+
+([London] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Emperor_5]
+	[Residence_Relax_12]
+	[Apartments_Relax_23]
+	[Residence_Emperor_54]
+	[Hotel_Emperor_62]
+	[Apartments_Single_Land_70]
+	[Resort_Lollipop_75]
+	[Resort_Single_Land_79]
+	[Resort_Lollipop_83]
+	[Resort_Chill_87]
+	[Residence_Emperor_92]
+	[Hotel_Single_Land_112]
+	[Residence_Single_Land_126]
+	[Apartments_Chill_136]
+	[Hostel_Paradise_144]
+	[Hostel_Paradise_150]
+)
+(hasInterestPoints
+	[Statue_of_Superman_27]
+	[Church_of_Spaghetti_monster_29]
+	[Church_of_Lenin_44]
+	[Museum_of_Diversity_48]
+	[Statue_of_Diversity_51]
+	[Square_of_Spaghetti_monster_59]
+	[Square_of_Lenin_61]
+	[Church_of_Diversity_66]
+	[Church_of_Diversity_89]
+	[Museum_of_Lenin_109]
+	[Museum_of_Spaghetti_monster_113]
+	[Museum_of_Spaghetti_monster_133]
+	[Castle_of_Diversity_188]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[Paris]
+	[Venice]
+	[Krakow]
+	[Sidney]
+	[Istanbul]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Paris]
+ 	[Berlin]
+ 	[Girona]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByCar
+	[Paris]
+ 	[Berlin]
+ 	[Girona]
+ 	[Sevilla]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByBoat
+	[Nova_Dheli]
+	[Saint_Petersburg]
+	[Edinburgh]
+	[Venice]
+	[Medellin]
+)
+(lifeQuality lowCost)
+(latitude 141.53)
+(longitude 179.62)
+(NameCity "London")
+)
+
+
+([Berlin] of City
+
+(cityType touristic)
+(hasHotels
+	[Hotel_Emperor_28]
+	[Residence_Single_Land_49]
+	[Apartments_Relax_53]
+	[Residence_Chill_59]
+	[Apartments_Emperor_71]
+	[Apartments_Chill_122]
+	[Residence_Emperor_146]
+)
+(hasInterestPoints
+	[Statue_of_Superman_1]
+	[Museum_of_Spaghetti_monster_14]
+	[Castle_of_Leo_Messi_35]
+	[Square_of_Leo_Messi_85]
+	[Museum_of_Power_Rangers_103]
+	[Museum_of_Diversity_128]
+	[Castle_of_Lenin_130]
+	[Castle_of_Power_Rangers_172]
+	[Statue_of_Lenin_190]
+	[Church_of_Spaghetti_monster_193]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Venice]
+	[Medellin]
+	[Rio_de_Janeiro]
+	[Melbourne]
+	[Cali]
+	[Dublin]
+	[Sidney]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[London]
+ 	[Paris]
+ 	[Girona]
+ 	[Sevilla]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+	[Touloise]
+)
+(travByCar
+	[London]
+ 	[Paris]
+ 	[Girona]
+ 	[Sevilla]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+	[Touloise]
+)
+(travByBoat
+)
+(lifeQuality expensive)
+(latitude 142.51)
+(longitude 192.87)
+(NameCity "Berlin")
+)
+
+
+([Dublin] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Chill_18]
+	[Hotel_Lollipop_192]
+)
+(hasInterestPoints
+	[Museum_of_Spaghetti_monster_38]
+	[Museum_of_Power_Rangers_57]
+	[Statue_of_Power_Rangers_64]
+	[Statue_of_Lenin_136]
+	[Statue_of_Lenin_139]
+	[Square_of_Diversity_160]
+	[Square_of_Spaghetti_monster_176]
+)
+(travByPlane
+	[Tokio]
+	[Rome]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Medellin]
+	[Sidney]
+	[Istanbul]
+	[Cali]
+	[Berlin]
+	[Paris]
+	[New_York]
+	[Caracas]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+)
+(travByCar
+)
+(travByBoat
+	[Edinburgh]
+	[London]
+	[Venice]
+	[Saint_Petersburg]
+	[Istanbul]
+	[Caracas]
+)
+(lifeQuality regular)
+(latitude 143.32)
+(longitude 174.53)
+(NameCity "Dublin")
+)
+
+
+([Edinburgh] of City
+
+(cityType touristic)
+(hasHotels
+	[Residence_Lollipop_1]
+	[Resort_Relax_80]
+	[Hotel_Single_Land_91]
+	[Resort_Paradise_130]
+	[Resort_Paradise_141]
+	[Resort_Emperor_193]
+	[Hostel_Chill_194]
+)
+(hasInterestPoints
+	[Museum_of_Leo_Messi_26]
+	[Church_of_Lenin_69]
+	[Square_of_Leo_Messi_83]
+	[Square_of_Lenin_118]
+	[Statue_of_Lenin_127]
+	[Square_of_Diversity_132]
+	[Museum_of_Diversity_142]
+	[Church_of_Superman_158]
+	[Church_of_Lenin_170]
+	[Museum_of_Spaghetti_monster_182]
+	[Museum_of_Lenin_185]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Touloise]
+	[Venice]
+	[Istanbul]
+	[Sidney]
+	[Melbourne]
+	[Rome]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[London]
+)
+(travByCar
+	[London]
+)
+(travByBoat
+	[London]
+	[Dublin]
+	[Saint_Petersburg]
+	[Rome]
+	[Rio_de_Janeiro]
+)
+(lifeQuality regular)
+(latitude 145.94)
+(longitude 177.35)
+(NameCity "Edinburgh")
+)
+
+
+([Moscow] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Emperor_13]
+	[Resort_Relax_45]
+	[Resort_Paradise_52]
+	[Apartments_Relax_98]
+	[Resort_Emperor_168]
+	[Apartments_Relax_170]
+	[Hotel_Lollipop_171]
+)
+(hasInterestPoints
+	[Statue_of_Leo_Messi_18]
+	[Castle_of_Power_Rangers_22]
+	[Castle_of_Diversity_23]
+	[Square_of_Power_Rangers_78]
+	[Statue_of_Lenin_104]
+	[Museum_of_Superman_123]
+	[Square_of_Superman_125]
+	[Museum_of_Power_Rangers_148]
+	[Square_of_Spaghetti_monster_152]
+	[Square_of_Leo_Messi_161]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Venice]
+	[Sidney]
+	[Rio_de_Janeiro]
+	[Medellin]
+	[Istanbul]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[London]
+ 	[Berlin]
+ 	[Saint_Petersburg]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByCar
+	[London]
+ 	[Berlin]
+ 	[Girona]
+ 	[Sevilla]
+ 	[AIProject2_Class10014]
+)
+(travByBoat
+)
+(lifeQuality expensive)
+(latitude 145.75)
+(longitude 217.07)
+(NameCity "Moscow")
+)
+
+
+([Krakow] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Paradise_14]
+	[Hotel_Relax_16]
+	[Apartments_Single_Land_132]
+	[Hotel_Emperor_143]
+)
+(hasInterestPoints
+	[Statue_of_Superman_7]
+	[Castle_of_Lenin_25]
+	[Church_of_Spaghetti_monster_65]
+	[Castle_of_Power_Rangers_87]
+	[Square_of_Power_Rangers_93]
+	[Square_of_Lenin_108]
+	[Castle_of_Leo_Messi_117]
+	[Church_of_Spaghetti_monster_146]
+	[Square_of_Spaghetti_monster_191]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Venice]
+	[Medellin]
+	[Istanbul]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Paris]
+ 	[AIProject2_Class10014]
+ 	[Berlin]
+)
+(travByCar
+	[Paris]
+	[Berlin]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByBoat
+)
+(lifeQuality regular)
+(latitude 140.05)
+(longitude 199.73)
+(NameCity "Krakow")
+)
+
+
+([Venice] of City
+
+(cityType touristic)
+(hasHotels
+	[Hostel_Relax_19]
+	[Residence_Lollipop_55]
+	[Apartments_Relax_60]
+	[Hostel_Chill_63]
+	[Hotel_Paradise_82]
+	[Residence_Chill_93]
+	[Hotel_Chill_158]
+	[Apartments_Emperor_160]
+	[Residence_Lollipop_181]
+)
+(hasInterestPoints
+	[Church_of_Leo_Messi_24]
+	[Castle_of_Lenin_37]
+	[Castle_of_Lenin_46]
+	[Museum_of_Diversity_98]
+	[Square_of_Lenin_102]
+	[Square_of_Spaghetti_monster_114]
+	[Castle_of_Diversity_137]
+)
+(travByPlane
+	[Beijing]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Paris]
+	[Krakow]
+	[Istanbul]
+	[Medellin]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Rome]
+)
+(travByCar
+	[Rome]
+ 	[Krakow]
+)
+(travByBoat
+	[Dublin]
+	[Edinburgh]
+	[London]
+	[Saint_Petersburg]
+)
+(lifeQuality expensive)
+(latitude 135.40)
+(longitude 192.10)
+(NameCity "Venice")
+)
+
+
+([Saint_Petersburg] of City
+
+(cityType touristic)
+(hasHotels
+	[Resort_Chill_22]
+	[Hostel_Emperor_27]
+	[Residence_Relax_30]
+	[Resort_Relax_39]
+	[Residence_Paradise_65]
+	[Apartments_Relax_135]
+	[Apartments_Lollipop_142]
+	[Resort_Relax_161]
+	[Resort_Lollipop_162]
+	[Apartments_Relax_199]
+)
+(hasInterestPoints
+	[Church_of_Lenin_135]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[London]
+ 	[Berlin]
+ 	[Moscow]
+ 	[AIProject2_Class10014]
+)
+(travByCar
+	[Moscow]
+ 	[Berlin]
+ 	[Paris]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByBoat
+	[London]
+	[Dublin]
+	[Edinburgh]
+	[Venice]
+	[La_Habana]	
+	[Istanbul]
+)
+(lifeQuality expensive)
+(latitude 149.92)
+(longitude 210.05)
+(NameCity "Saint Petersburg")
+)
+
+
+([Istanbul] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Paradise_3]
+	[Hostel_Chill_10]
+	[Hotel_Paradise_24]
+	[Residence_Single_Land_46]
+	[Resort_Single_Land_61]
+	[Resort_Emperor_66]
+	[Apartments_Paradise_76]
+	[Resort_Relax_97]
+	[Apartments_Lollipop_106]
+	[Hostel_Emperor_111]
+	[Hostel_Paradise_124]
+	[Hostel_Single_Land_185]
+)
+(hasInterestPoints
+	[Castle_of_Power_Rangers_3]
+	[Castle_of_Diversity_28]
+	[Church_of_Lenin_30]
+	[Square_of_Lenin_39]
+	[Statue_of_Diversity_53]
+	[Museum_of_Power_Rangers_81]
+	[Castle_of_Superman_107]
+	[Statue_of_Diversity_119]
+	[Museum_of_Power_Rangers_145]
+	[Square_of_Leo_Messi_150]
+	[Castle_of_Leo_Messi_151]
+)
+(travByPlane
+	[Tokio]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Venice]
+	[Krakow]
+	[Istanbul]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Nova_Dheli]
+ 	[Krakow]
+)
+(travByCar
+	[London]
+ 	[Berlin]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+	[Rome]
+	[Venice]
+)
+(travByBoat
+	[London]
+	[Dublin]
+	[Edinburgh]
+	[Venice]
+	[La_Habana]	
+	[Saint_Petersburg]
+)
+(lifeQuality regular)
+(latitude 131.00)
+(longitude 208.45)
+(NameCity "Istanbul")
+)
+
+
+([Rome] of City
+
+(cityType touristic)
+(hasHotels
+	[Resort_Chill_15]
+	[Hotel_Lollipop_90]
+	[Hotel_Relax_107]
+	[Residence_Paradise_133]
+)
+(hasInterestPoints
+	[Statue_of_Power_Rangers_21]
+	[Church_of_Spaghetti_monster_33]
+	[Square_of_Lenin_54]
+	[Square_of_Superman_90]
+	[Church_of_Power_Rangers_111]
+	[Museum_of_Spaghetti_monster_143]
+	[Statue_of_Leo_Messi_180]
+)
+(travByPlane
+	[Sidney]
+	[Beijing]
+	[Taiwan]
+	[Moscow]
+	[London]
+	[Venice]
+	[Istanbul]
+	[Cali]
+	[New_York]
+	[AIProject2_Class10014]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Venice]
+ 	[Krakow]
+ 	[Berlin]
+ 	[Paris]
+)
+(travByCar
+	[London]
+ 	[Berlin]
+ 	[AIProject2_Class10014]
+	[AIProject2_Class11]
+	[Paris]
+	[Krakow]
+	[Venice]
+)
+(travByBoat
+	[London]
+	[Dublin]
+	[Edinburgh]
+	[Venice]
+	[La_Habana]	
+	[Saint_Petersburg]
+)
+(lifeQuality regular)
+(latitude 131.91)
+(longitude 192.26)
+(NameCity "Rome")
+)
+
+
+([Caracas] of City
+
+(cityType touristic)
+(hasHotels
+	[Hotel_Single_Land_9]
+	[Hotel_Lollipop_11]
+	[Hostel_Lollipop_34]
+	[Hotel_Paradise_48]
+	[Hotel_Relax_68]
+	[Hotel_Chill_131]
+	[Residence_Paradise_182]
+)
+(hasInterestPoints
+	[Castle_of_Leo_Messi_8]
+	[Church_of_Leo_Messi_15]
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Medellin]
+ 	[Rio_de_Janeiro]
+ 	[Cali]
+)
+(travByCar
+	[Medellin]
+ 	[Rio_de_Janeiro]
+ 	[Cali]
+)
+(travByBoat
+	[La_Habana]
+	[Rome]
+	[London]
+	[Edinburgh]	
+	[Saint_Petersburg]
+)
+(lifeQuality lowCost)
+(latitude 100.47)
+(longitude 113.17)
+(NameCity "Caracas")
+)
+
+
+([Rio_de_Janeiro] of City
+
+(cityType touristic)
+(hasHotels
+	[Residence_Single_Land_6]
+	[Resort_Paradise_58]
+	[Hotel_Relax_67]
+	[Apartments_Lollipop_69]
+	[Apartments_Lollipop_72]
+	[Residence_Emperor_120]
+	[Hostel_Paradise_137]
+	[Hostel_Relax_148]
+	[Residence_Single_Land_153]
+	[Apartments_Single_Land_180]
+)
+(hasInterestPoints
+	[Church_of_Leo_Messi_32]
+	[Castle_of_Leo_Messi_34]
+	[Museum_of_Superman_58]
+	[Castle_of_Power_Rangers_75]
+	[Castle_of_Lenin_77]
+	[Castle_of_Leo_Messi_116]
+	[Square_of_Spaghetti_monster_141]
+	[Church_of_Superman_192]
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Cali]
+	[Moscow]
+	[Paris]
+	[Edinburgh]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Medellin]
+ 	[Caracas]
+ 	[Cali]
+)
+(travByCar
+	[Medellin]
+ 	[Caracas]
+ 	[Cali]
+)
+(travByBoat
+	[La_Habana]
+	[Rome]
+	[London]
+	[Edinburgh]	
+	[Saint_Petersburg]
+)
+(lifeQuality expensive)
+(latitude 112.91)
+(longitude 136.00)
+(NameCity "Rio de Janeiro")
+)
+
+
+([La_Habana] of City
+
+(cityType touristic)
+(hasHotels
+	[Hostel_Emperor_20]
+	[Resort_Paradise_40]
+	[Hostel_Relax_77]
+	[Apartments_Single_Land_78]
+	[Hotel_Single_Land_85]
+	[Resort_Chill_95]
+	[Hotel_Chill_104]
+	[Apartments_Relax_129]
+	[Resort_Emperor_163]
+	[Resort_Chill_190]
+)
+(hasInterestPoints
+	[Church_of_Lenin_2]
+	[Statue_of_Diversity_40]
+	[Church_of_Power_Rangers_82]
+	[Museum_of_Superman_155]
+	[Square_of_Diversity_177]
+	[Square_of_Spaghetti_monster_195]
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Cali]
+	[Krakow]
+	[Beijing]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+)
+(travByCar
+)
+(travByBoat
+	[Venice]
+	[Caracas]
+	[Rio_de_Janeiro]
+	[London]
+	[Paris]
+	[Rome]
+	[London]
+	[Edinburgh]	
+	[Saint_Petersburg]
+)
+(lifeQuality lowCost)
+(latitude 113.05)
+(longitude 98.89)
+(NameCity "La Habana")
+)
+
+
+([Medellin] of City
+
+(cityType touristic)
+(hasHotels
+	[Hostel_Single_Land_56]
+	[Residence_Lollipop_134]
+	[Hotel_Paradise_172]
+)
+(hasInterestPoints
+	[Church_of_Leo_Messi_10]
+	[Museum_of_Superman_41]
+	[Castle_of_Lenin_42]
+	[Church_of_Superman_74]
+	[Church_of_Power_Rangers_86]
+	[Museum_of_Spaghetti_monster_91]
+	[Statue_of_Lenin_95]
+	[Museum_of_Power_Rangers_96]
+	[Square_of_Spaghetti_monster_144]
+	[Church_of_Power_Rangers_183]
+	[Church_of_Spaghetti_monster_189]
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Berlin]
+	[Caracas]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Caracas]
+ 	[Rio_de_Janeiro]
+ 	[Cali]
+)
+(travByCar
+	[Caracas]
+ 	[Rio_de_Janeiro]
+ 	[Cali]
+)
+(travByBoat
+	[La_Habana]
+	[Rome]
+	[London]
+	[Beijing]
+	[Edinburgh]	
+	[Saint_Petersburg]
+)
+(lifeQuality expensive)
+(latitude 96.27)
+(longitude 105.88)
+(NameCity "Medellin")
+)
+
+
+([Cali] of City
+
+(cityType touristic)
+(hasHotels
+	[Apartments_Chill_25]
+	[Resort_Lollipop_33]
+	[Apartments_Emperor_102]
+	[Residence_Emperor_110]
+	[Residence_Paradise_155]
+)
+(hasInterestPoints
+	[Castle_of_Lenin_12]
+	[Museum_of_Lenin_16]
+	[Square_of_Spaghetti_monster_20]
+	[Church_of_Diversity_36]
+	[Statue_of_Lenin_47]
+	[Square_of_Power_Rangers_70]
+	[Statue_of_Diversity_94]
+	[Museum_of_Lenin_99]
+	[Museum_of_Superman_138]
+	[Statue_of_Superman_198]
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[Beijing]
+	[Wellington]
+	[Berlin]
+	[La_Habana]
+	[London]
+	[Cali]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Rio_de_Janeiro]
+ 	[Medellin]
+ 	[Caracas]
+)
+(travByCar
+ 	[Rio_de_Janeiro]
+ 	[Medellin]
+ 	[Caracas]
+)
+(travByBoat
+	[Dublin]
+	[La_Habana]
+	[Rome]
+	[London]
+	[Edinburgh]	
+	[Saint_Petersburg]
+)
+(lifeQuality expensive)
+(latitude 93.40)
+(longitude 104.67)
+(NameCity "Cali")
+)
+
+
+([New_York] of City
+
+(cityType touristic)
+(hasHotels
+	[Hotel_Single_Land_29]
+	[Resort_Emperor_64]
+	[Apartments_Relax_113]
+	[Residence_Single_Land_123]
+	[Hostel_Paradise_128]
+	[Residence_Relax_140]
+	[Resort_Paradise_187]
+	[Apartments_Chill_188]
+)
+(hasInterestPoints
+	[Museum_of_Power_Rangers_52]
+	[Square_of_Superman_101]
+	[Church_of_Diversity_115]
+	[Church_of_Diversity_120]
+	[Castle_of_Leo_Messi_166]
+	[Church_of_Power_Rangers_178]
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Cali]
+	[Paris]
+	[Caracas]
+	[Edinburgh]
+	[Dublin]
+	[New_York]
+	[AIProject2_Class11]
+)
+(travByTrain
+ 	[Medellin]
+ 	[Caracas]
+)
+(travByCar
+	[Medellin]
+ 	[Rio_de_Janeiro]
+ 	[Cali]
+ 	[Caracas]
+ 	[Medellin]
+)
+(travByBoat
+	[La_Habana]
+	[Rome]
+	[Paris]
+	[AIProject2_Class11]
+	[Istanbul]
+	[Sevilla]
+	[London]
+	[Edinburgh]	
+	[Saint_Petersburg]
+)
+(lifeQuality expensive)
+(latitude 130.70)
+(longitude 106.54)
+(NameCity "New York")
+)
+
+
+;*************** ALTERNATIVE CITIES ***************
+([Girona] of City
+
+(cityType alternative)
+(hasHotels
+)
+(hasInterestPoints
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Cali]
+	[Paris]
+	[Edinburgh]
+	[Dublin]
+	[New_York]
+)
+(travByTrain
+	[Paris]
+	[Sevilla]
+	[Touloise]
+	[AIProject2_Class11]
+ 	[AIProject2_Class10014]
+)
+(travByCar
+	[Paris]
+	[Touloise]
+	[Berlin]
+	[Sevilla]
+	[AIProject2_Class11]
+	[AIProject2_Class10014]
+)
+(travByBoat
+)
+(lifeQuality lowCost)
+(latitude 131.98)
+(longitude 182.78)
+(NameCity "Girona")
+)
+
+
+([Sevilla] of City
+
+(cityType alternative)
+(hasHotels
+)
+(hasInterestPoints
+)
+(travByPlane
+	[Tokio]
+	[Moscow]
+	[London]
+	[Paris]
+	[Edinburgh]
+	[Dublin]
+	[New_York]
+)
+(travByTrain
+	[Paris]
+	[Girona]
+	[Touloise]
+	[AIProject2_Class11]
+ 	[AIProject2_Class10014]
+)
+(travByCar
+	[Paris]
+	[Touloise]
+	[Berlin]
+	[Girona]
+	[AIProject2_Class11]
+	[AIProject2_Class10014]
+)
+(travByBoat
+	[London]
+	[Dublin]
+	[Edinburgh]
+	[Venice]
+	[Istanbul]
+	[Saint_Petersburg]
+)
+(lifeQuality lowCost)
+(latitude 127.38)
+(longitude 174.10)
+(NameCity "Sevilla")
+)
+
+
+([Touloise] of City
+
+(cityType alternative)
+(hasHotels
+)
+(hasInterestPoints
+)
+(travByPlane
+	[Sidney]
+	[Beijing]
+	[Moscow]
+	[Edinburgh]
+	[Dublin]
+	[New_York]
+)
+(travByTrain
+	[Paris]
+	[Sevilla]
+	[Girona]
+	[AIProject2_Class11]
+ 	[AIProject2_Class10014]
+)
+(travByCar
+	[Paris]
+	[Berlin]
+	[Sevilla]
+	[Girona]
+	[AIProject2_Class11]
+	[AIProject2_Class10014]
+)
+(travByBoat
+)
+(lifeQuality lowCost)
+(latitude 133.6)
+(longitude 181.29)
+(NameCity "Touloise")
+)
+
+
+
+
